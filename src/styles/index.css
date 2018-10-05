@@ -1,0 +1,55 @@
+body {
+    background-color: #eae8e7;
+    margin-top: 1%;
+}
+
+a {
+    color: #f0ad4e;
+}
+
+a:hover {
+    color: white;
+}
+
+a:hover.resumeHover {
+    color: #337ab7;
+}
+
+h5 {
+    font-size: 125%;
+}
+
+h4 {
+    font-size: 185%
+}
+
+.sideBar {
+    background-color: #337ab7;
+    color: white;
+}
+
+.resume {
+    color: #767270;
+}
+
+.progress {
+    background-color: white !important;
+}
+
+.determinate {
+    background-color: #f0ad4e !important;
+}
+
+.iconPadding {
+    padding-top: 15%;
+}
+
+#cardTitle {
+    padding-bottom: 10%;
+    font-size: 200%;
+}
+
+#cardSubTitle {
+    padding-bottom: 3%;
+    font-size: 125%;
+}
