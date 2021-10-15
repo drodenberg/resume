@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import headshot from '../images/headshot.jpg'
+import headshot from '../images/danheadshot.jpg'
 
 class Sidebar extends Component {
   render () {
@@ -51,33 +51,43 @@ class Sidebar extends Component {
                           <h5>Skills & Proficiency</h5>
                           <span>ReactJs</span>
                           <div className='progress'>
-                              <div className='determinate' style={{ width: '85%' }}></div>
-                          </div>
-
-                          <span>HTML & CSS (<a href='http://materializecss.com' target='_blank' rel="noopener noreferrer">MaterializeCSS</a>)</span>
-                          <div className='progress'>
-                              <div className='determinate' style={{ width: '85%' }}></div>
+                              <div className='determinate' style={{ width: '95%' }}></div>
                           </div>
 
                           <span>JavaScript</span>
                           <div className='progress'>
-                              <div className='determinate' style={{ width: '75%' }}></div>
+                              <div className='determinate' style={{ width: '95%' }}></div>
                           </div>
 
-                          <span>Jest (Js testing)</span>
+                          <span>Flutter</span>
                           <div className='progress'>
-                              <div className='determinate' style={{ width: '65%' }}></div>
+                              <div className='determinate' style={{ width: '90%' }}></div>
+                          </div>
+
+                          <span>Dart</span>
+                          <div className='progress'>
+                              <div className='determinate' style={{ width: '85%' }}></div>
                           </div>
 
                           <span>Express</span>
                           <div className='progress'>
-                              <div className='determinate' style={{ width: '55%' }}></div>
+                              <div className='determinate' style={{ width: '85%' }}></div>
                           </div>
 
-                          <span>Java</span>
+                          <span>OpenLayers</span>
                           <div className='progress'>
-                              <div className='determinate' style={{ width: '50%' }}></div>
+                              <div className='determinate' style={{ width: '85%' }}></div>
                           </div>
+
+                          <span>Jest (JS testing)</span>
+                          <div className='progress'>
+                              <div className='determinate' style={{ width: '75%' }}></div>
+                          </div>
+
+                         
+
+                          
+
                       </div>
                   </div>
               </div>

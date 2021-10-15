@@ -12,8 +12,8 @@ class About extends Component {
 
             <div className="col s12 m10 l10">
               <h4>Professional Summary</h4>
-              <p>Experienced Web Developer committed to maintaining cutting edge technical skills and up-to-date industry knowledge.</p>
-              <p>Has worked on Web Applications using ReactJS. Works well with a team and is always looking for opportunites to learn!</p>
+              <p>Experienced Web/Mobile Developer committed to maintaining cutting edge technical skills and up-to-date industry knowledge.</p>
+              <p>Has worked on Web/Mobile Applications using ReactJS, Flutter, ExpressJS and OpenLayers. Works well with a team and is always looking for opportunites to learn!</p>
             </div>
           </div>
         </div>
