@@ -13,7 +13,7 @@ class About extends Component {
             <div className="col s12 m10 l10">
               <h4>Professional Summary</h4>
 
-              <p>Highly skilled and results-driven full stack developer with 7+ years of experience in designing, developing, and maintaining web applications using a wide range of programming languages and frameworks. Proficient in both front-end and back-end development, with a passion for creating user-friendly and scalable solutions.</p>
+              <p>Highly skilled and results-driven full stack developer with 7+ years of experience in developing, and maintaining web applications using a wide range of programming languages and frameworks. Proficient in both front-end and back-end development, with a passion for creating user-friendly solutions.</p>
               <p>Seeking a full stack developer role that will allow me to leverage my technical expertise and creativity to build and maintain cutting-edge web applications, while continuously learning and growing in a challenging and stimulating work environment.</p>
             </div>
           </div>

@@ -19,7 +19,7 @@ class WorkHistory extends Component {
                 <p className="highlight">Aug 2020 - Present</p>
               </div>
 
-              <p><strong>We are a golf startup working on bringing new and existing golfers to their local courses.</strong></p>
+              <p><strong>Golf startup working on bringing new and existing golfers to their local courses.</strong></p>
               <div className="tab">
                 <ul>
                   <li style={{ listStyleType: 'disc' }}>Published a mobile app called <a href='https://apps.apple.com/us/app/divvit-golf/id1571822903' style={{ color: '#3379b7' }} target='_blank' rel="noopener noreferrer">Divvit Golf</a> using Flutter that is in the app store.</li>
