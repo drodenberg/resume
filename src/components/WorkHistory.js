@@ -30,16 +30,28 @@ class WorkHistory extends Component {
               </div>
 
               <p><strong>Most recent project was builing a public facing web app for Mastercard.</strong></p>
-              <p className="tab">
-                This application was meant to allow consumers of a bank to see the latest offers and deals that the bank had to offer.
-                I was heavily involved in the design process and implementing the design using React and Typescript.
-                Accomplished learning Typescript and executed tasks with no delay.</p>
+              <div className="tab">
+                <ul>
+                  <li style={{ listStyleType: 'disc' }}>The application allowed consumers of a bank to see the latest offers and deals that the bank had to offer.</li>
+                  <li style={{ listStyleType: 'disc' }}>I was heavily involved in the design process and implementing the design using React and Typescript.</li>
+                  <li style={{ listStyleType: 'disc' }}>Accomplished learning Typescript and executed tasks with no delay.</li>
+                </ul>
+              </div>
 
 
               <p><strong>Another project was working rewriting a data management system at NGA.</strong></p>
-              <p className="tab">This application was using legacy systems and our job was to update the usability and technology.
-                I was heavily involved in the design process and implementing the design on the front and back end.
-                Accomplished setting up the entire application using React/Parcel for the front end and Apollo JS graphql for the back end.</p>
+
+              <div className="tab">
+                <ul>
+                  <li style={{ listStyleType: 'disc' }}>This application was using legacy systems and our job was to update the usability and technology.</li>
+                  <li style={{ listStyleType: 'disc' }}>I was heavily involved in the design process and implementing the design on the front and back end.</li>
+                  <li style={{ listStyleType: 'disc' }}>Accomplished setting up the entire application using React/Parcel for the front end and Apollo JS graphql for the back end.</li>
+                </ul>
+
+
+
+
+              </div>
 
 
 
