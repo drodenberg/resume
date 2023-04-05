@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 class About extends Component {
-  render () {
+  render() {
     return (
       <div className="col s12 m8 l8">
         <div className="card-panel">
@@ -13,7 +13,7 @@ class About extends Component {
             <div className="col s12 m10 l10">
               <h4>Professional Summary</h4>
               <p>Experienced Web/Mobile Developer committed to maintaining cutting edge technical skills and up-to-date industry knowledge.</p>
-              <p>Has worked on Web/Mobile Applications using ReactJS, Flutter, ExpressJS and OpenLayers. Works well with a team and is always looking for opportunites to learn!</p>
+              <p>Has worked on Web/Mobile Applications using ReactJS, Typescript, StyledComponents, GraphQL, Golang, Flutter, ExpressJS, AWS and OpenLayers. Works well with a team and is always looking for opportunites to learn!</p>
             </div>
           </div>
         </div>
